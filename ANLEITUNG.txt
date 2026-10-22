@@ -1,0 +1,34 @@
+NETZPLAN-RECHNER FÜR WINDOWS
+============================
+
+Starten:
+1. ZIP-Datei entpacken.
+2. Netzplan-Rechner.exe doppelt anklicken.
+
+Es ist keine Installation, kein Benutzerkonto und keine Internetverbindung nötig.
+
+Funktionen:
+- FAZ, FEZ, SAZ und SEZ berechnen
+- Gesamtpuffer (GP) und freien Puffer (FP) berechnen
+- kritische Vorgänge gelb markieren
+- mehrere Vorgänger mit Komma trennen, zum Beispiel: A, B
+- zufällig eines von mehreren realistischen FiSi-Beispielen laden
+- Stunden, Arbeitstage, Kalenderwochen (KW) oder Zeiteinheiten verwenden
+- Kalenderdateien (.ics) für Google Kalender oder Outlook erstellen
+
+Kalenderexport:
+1. Stunden, Arbeitstage oder KW auswählen.
+2. Projektstart als JJJJ-MM-TT eintragen.
+3. Netzplan berechnen.
+4. "Kalenderdatei (.ics)" anklicken und einen Speicherort auswählen.
+5. Die gespeicherte Datei in Google Kalender oder Outlook importieren.
+
+Datenschutz:
+Das Programm arbeitet nur auf dem eigenen Computer. Es sendet keine Daten,
+benötigt keinen Login und speichert eingegebene Netzpläne nicht automatisch.
+
+Hinweis zu Windows SmartScreen:
+Die EXE ist nicht digital signiert. Windows kann deshalb beim ersten Start
+einen Hinweis anzeigen. Das Programm stammt vollständig aus diesem Paket.
+
+Made with Grizzly-AI
